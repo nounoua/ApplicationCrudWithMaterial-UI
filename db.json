@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "omlette",
+      "category": "pizza-1",
+      "freshness": "1",
+      "price": 8520,
+      "comment": "specialié thon , ognion et tomate",
+      "date": "2022-02-07T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "tacos mergez",
+      "category": "steak-0",
+      "freshness": "1",
+      "price": 8.5,
+      "comment": "tres bon",
+      "date": "2022-02-04T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "tacos escaloppe",
+      "category": "steak-0",
+      "freshness": "1",
+      "price": 7500,
+      "comment": "tout option specialité escalope",
+      "date": "2022-02-28T23:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "pizza thon moyen",
+      "category": "steak-0",
+      "freshness": "1",
+      "price": 15000,
+      "comment": "pizza spécialité thon",
+      "date": "2022-03-14T23:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "pizza chawarma",
+      "category": "steak-0",
+      "freshness": "1",
+      "price": 20500,
+      "comment": "spécialité chawarma",
+      "date": "2022-03-04T23:00:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
